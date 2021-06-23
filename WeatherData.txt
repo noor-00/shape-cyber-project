@@ -1,0 +1,31 @@
+						---------------SEARCH HISTORY...---------------
+
+
+ludhiana 24 Jun 21 | 12:09:44 AM
+Current Temprature is : 34.72000000000003
+Current wether desc :clear sky
+Current humidity    : 17
+Current wind speed  : 0.56
+
+
+punjab 24 Jun 21 | 12:09:49 AM
+Current Temprature is : 37.68000000000001
+Current wether desc :clear sky
+Current humidity    : 23
+Current wind speed  : 4.43
+
+
+delhi 24 Jun 21 | 12:09:56 AM
+Current Temprature is : 33.05000000000001
+Current wether desc :haze
+Current humidity    : 58
+Current wind speed  : 4.63
+
+
+kullu 24 Jun 21 | 12:10:00 AM
+Current Temprature is : 22.360000000000014
+Current wether desc :clear sky
+Current humidity    : 51
+Current wind speed  : 2.99
+
+
